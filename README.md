@@ -1,2 +1,5 @@
 # Android-Portfolio
-Project Sandwich Clubhouse main page to select the sandwich 
+The purpose of this portfolio is to showcase the android projects I have built.
+
+##Project Sandwich Clubhouse 
+Main page to select the sandwich 
