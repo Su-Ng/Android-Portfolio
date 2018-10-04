@@ -11,4 +11,4 @@ The purpose of this portfolio is to showcase the android projects I have built f
 This product uses the TMDb API but is not endorsed or certified by TMDb
 
 ![](images/MovieList300.png)
-![](images/MovieDetail.png)
+![](images/MovieDetail300.png)
