@@ -9,3 +9,6 @@ The purpose of this portfolio is to showcase the android projects I have built f
 ## Project Popular Movies Stage 1
 
 This product uses the TMDb API but is not endorsed or certified by TMDb
+
+![](images/MovieList.png)
+![](images/MovieDetail.png)
